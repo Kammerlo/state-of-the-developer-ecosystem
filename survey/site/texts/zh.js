@@ -16,7 +16,7 @@ export default {
     until: (date) => `开放至 ${date}。`,
     // In the last week; `rel` is "in 3 days", "in 5 hours"…
     closes: (rel, when) => (when ? `${rel}截止（${when}）。` : `${rel}截止。`),
-    noWallet: "你不需要钱包或 ada：你的回答会被发布。",
+    noWallet: "你不需要钱包或 ADA：你的回答会被发布。",
     kept: "在你发布之前，你的回答会一直保存在这个浏览器里，所以你可以随时中断，稍后再回来。",
     publicTitle: "你的回答将会公开",
     public:
@@ -49,7 +49,7 @@ export default {
     // In the last day.
     soon: (rel) => `问卷将于${rel}截止：请在此之前发布你的回答。`,
     publish: "发布我的回答",
-    back: "返回我的回答",
+    back: "返回修改",
     sending: "发布中…",
     retrying: (attempt) => `仍在发布中…（第 ${attempt} 次尝试）`,
     retry: "重试",
@@ -172,7 +172,7 @@ export default {
       drep: "已注册的 DRep（委托代表）——在浏览器中通过你钱包的 CIP-95 DRep 密钥声明。",
       spo: "质押池运营者（SPO）——用浏览器钱包无法持有的质押池冷/热密钥证明。",
       cc: "宪法委员会成员——用浏览器钱包无法持有的委员会密钥证明。",
-      stakeholder: "任何持有质押密钥的 ada 持有者——在浏览器中由你连接的钱包声明。",
+      stakeholder: "任何持有质押密钥的 ADA 持有者——在浏览器中由你连接的钱包声明。",
       keyholder: "任何拥有钱包的人——在浏览器中用你的支付（花费）密钥声明；无需注册或链上活动。",
     },
   },
