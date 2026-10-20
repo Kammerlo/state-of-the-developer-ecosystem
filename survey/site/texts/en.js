@@ -21,7 +21,7 @@ export default {
     publicTitle: "Your answers will be public",
     public:
       "They are published on the Cardano blockchain, where anyone can read them and nothing can be changed or removed. They are signed with a random key made in this browser, which isn't linked to you. Don't write anything personal in the text answers.",
-    consent: "By publishing your answers, you accept the",
+    consent: "By publishing your answers, you acknowledge that they will be processed as described in the",
     start: "Start",
     continue: "Continue",
     restart: "Start over",

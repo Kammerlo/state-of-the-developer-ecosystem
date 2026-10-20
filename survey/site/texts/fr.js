@@ -21,7 +21,7 @@ export default {
     publicTitle: "Vos réponses seront publiques",
     public:
       "Elles sont publiées sur la blockchain Cardano, où tout le monde peut les lire et où rien ne peut être modifié ni supprimé. Elles sont signées avec une clé aléatoire créée dans ce navigateur, qui n'est pas liée à vous. N'écrivez rien de personnel dans les réponses libres.",
-    consent: "En publiant vos réponses, vous acceptez les",
+    consent: "En publiant vos réponses, vous reconnaissez qu'elles seront traitées comme décrit dans les",
     start: "Commencer",
     continue: "Continuer",
     restart: "Recommencer",

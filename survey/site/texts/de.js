@@ -21,7 +21,7 @@ export default {
     publicTitle: "Ihre Antworten werden öffentlich sein",
     public:
       "Sie werden auf der Cardano-Blockchain veröffentlicht, wo jeder sie lesen kann und nichts geändert oder gelöscht werden kann. Sie werden mit einem zufälligen Schlüssel signiert, der in diesem Browser erzeugt wird und nicht mit Ihnen verknüpft ist. Schreiben Sie nichts Persönliches in die Textantworten.",
-    consent: "Mit der Veröffentlichung Ihrer Antworten akzeptieren Sie die",
+    consent: "Mit der Veröffentlichung Ihrer Antworten nehmen Sie Folgendes zur Kenntnis:",
     start: "Starten",
     continue: "Weiter",
     restart: "Von vorn beginnen",

@@ -21,7 +21,7 @@ export default {
     publicTitle: "你的回答将会公开",
     public:
       "回答会发布到 Cardano 区块链上，任何人都可以读取，且无法修改或删除。回答由在这个浏览器中生成的随机密钥签名，该密钥与你本人没有关联。请不要在文本回答中写任何个人信息。",
-    consent: "发布回答即表示你接受",
+    consent: "发布回答即表示你已知悉",
     start: "开始",
     continue: "继续",
     restart: "重新开始",

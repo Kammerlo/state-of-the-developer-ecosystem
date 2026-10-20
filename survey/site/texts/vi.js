@@ -21,7 +21,7 @@ export default {
     publicTitle: "Câu trả lời của bạn sẽ công khai",
     public:
       "Chúng được công bố trên blockchain Cardano, nơi bất kỳ ai cũng có thể đọc và không gì có thể bị sửa hay xóa. Chúng được ký bằng một khóa ngẫu nhiên tạo trong trình duyệt này, không liên kết với bạn. Đừng viết gì mang tính cá nhân vào các câu trả lời dạng văn bản.",
-    consent: "Khi công bố câu trả lời, bạn chấp nhận",
+    consent: "Khi công bố câu trả lời, bạn xác nhận rằng chúng sẽ được xử lý như mô tả trong",
     start: "Bắt đầu",
     continue: "Tiếp tục",
     restart: "Làm lại từ đầu",
