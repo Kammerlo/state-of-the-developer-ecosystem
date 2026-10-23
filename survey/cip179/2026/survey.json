@@ -16,7 +16,7 @@
     "es": "Unos 15 minutos. Los resultados indican a quienes crean herramientas, escriben documentación o financian proyectos en qué trabajar primero.",
     "pt": "Cerca de 15 minutos. Os resultados mostram a quem cria ferramentas, escreve documentação e financia projetos no que trabalhar primeiro.",
     "it": "Circa 15 minuti. I risultati indicano a chi crea strumenti, scrive documentazione o finanzia progetti su cosa lavorare per primo.",
-    "de": "Etwa 15 Minuten. Die Ergebnisse zeigen Tool-Entwicklern, Technische Reddakteure und Förderern, woran zuerst gearbeitet werden sollte.",
+    "de": "Etwa 15 Minuten. Die Ergebnisse zeigen Tool-Entwicklern, technischen Redakteuren und Förderern, woran zuerst gearbeitet werden sollte.",
     "ja": "所要時間は約15分です。結果は、ツール開発者、ドキュメント執筆者、資金提供者が何に優先して取り組むべきかを示します。",
     "vi": "Khoảng 15 phút. Kết quả cho những người xây dựng công cụ, viết tài liệu và cấp vốn biết nên ưu tiên làm gì trước.",
     "zh": "大约需要 15 分钟。调查结果会告诉工具开发者、文档作者和资助方应该优先做什么。"
@@ -186,7 +186,7 @@
             "es": "¿Qué te hizo dejar de desarrollar en Cardano?",
             "pt": "O que fez você parar de desenvolver na Cardano?",
             "it": "Cosa ti ha fatto smettere di sviluppare su Cardano?",
-            "de": "Warum haben Sie aufgehört, auf Cardano zu entwickeln?",
+            "de": "Warum hast du aufgehört, auf Cardano zu entwickeln?",
             "ja": "Cardano上での開発をやめた理由は何ですか？",
             "vi": "Điều gì khiến bạn dừng phát triển trên Cardano?",
             "zh": "是什么让你停止在 Cardano 上开发？"
@@ -1230,7 +1230,7 @@
             "es": "¿Cuáles de estos has ejecutado por tu cuenta en los últimos 12 meses, en local o en tus propios servidores?",
             "pt": "Quais destes você mesmo rodou nos últimos 12 meses, localmente ou nos seus servidores?",
             "it": "Quali di questi hai fatto girare in prima persona negli ultimi 12 mesi, in locale o sui tuoi server?",
-            "de": "Welche davon hast du in den letzten 12 Monaten selbst betrieben, lokal oder auf deinem Servern?",
+            "de": "Welche davon hast du in den letzten 12 Monaten selbst betrieben, lokal oder auf deinen Servern?",
             "ja": "過去12か月間に、次のうちどれをローカルや自分のサーバーで自ら動かしましたか？",
             "vi": "Trong 12 tháng qua, bạn đã tự chạy những phần mềm nào sau đây, trên máy cá nhân hoặc trên máy chủ của bạn?",
             "zh": "过去 12 个月里，你自己在本地或自己的服务器上运行过以下哪些软件？"
@@ -2431,7 +2431,7 @@
             "es": "Elige hasta 3.",
             "pt": "Escolha até 3.",
             "it": "Scegline fino a 3.",
-            "de": "Wählen Sie bis zu 3.",
+            "de": "Wähle bis zu 3.",
             "ja": "3つまで選択できます。",
             "vi": "Chọn tối đa 3.",
             "zh": "最多选 3 项。"
@@ -3494,7 +3494,7 @@
             "es": "¿Cuántas dApps de Cardano, aparte de las tuyas, has usado en los últimos 12 meses?",
             "pt": "Quantos dApps da Cardano, além dos seus, você usou nos últimos 12 meses?",
             "it": "Quante dApp Cardano, oltre alle tue, hai usato negli ultimi 12 mesi?",
-            "de": "Wie viele Cardano-dApps, außer deiner eigenen, hast du in den letzten 12 Monaten genutzt?",
+            "de": "Wie viele Cardano-dApps, außer deinen eigenen, hast du in den letzten 12 Monaten genutzt?",
             "ja": "過去12か月間に、自分のもの以外のCardano dAppをいくつ使いましたか？",
             "vi": "Trong 12 tháng qua, bạn đã dùng bao nhiêu dApp Cardano, không tính của chính bạn?",
             "zh": "过去 12 个月里，除了你自己的以外，你用过多少个 Cardano dApp？"
